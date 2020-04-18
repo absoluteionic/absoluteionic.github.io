@@ -20,7 +20,7 @@ input,select{vertical-align:middle}
     position: fixed;
     height: 100%;
     width: 100%;
-    background: #CCC;
+    background: #16abdb;
 	overflow: hidden;
     top: 0;
     bottom: 0;
@@ -51,7 +51,7 @@ input,select{vertical-align:middle}
 	display: none;
 }
 .windowHeader {
-    background-color: #b7b7e0;
+    background-color: #e17910;
     text-align: right;
     border-bottom: 2px solid #000;
     padding: 2px;
@@ -130,7 +130,7 @@ input,select{vertical-align:middle}
     margin: 2px 0 0 10px;
     font-size: 17px;
     padding: 0 10px;
-    background: #CCC;
+    background: #000000;
     font-weight: bold;
 	cursor: pointer;
 }
