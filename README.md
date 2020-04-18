@@ -1,2 +1,5 @@
-# absoluteionic.github.io
-My Personal WebPage
+# absoluteionic GitHub Web Page Platform
+This is my personal webpage. Code Open for everybody.
+
+## Sign - Developer
+~abso
